@@ -17,7 +17,7 @@ metadata:
     short: jc
 assets:
   parts:
-  - {seq: 0, filename: KR3er085_000-jc.yaml, hash: 'sha256:958c0059b723b7e072e0fa6f5e98fe83a8fa872cbc35169b4d627a290ac25a0a'}
+  - {seq: 0, filename: KR3er085_000-jc.yaml, hash: 'sha256:fd47383b65d34badae2e989b6693fce9cfa9772e6d1def0e8cef2067f01ef4dd'}
   - {seq: 1, filename: KR3er085_001-jc.yaml, hash: 'sha256:d8100af80667079c9382dc363bbdd2f5eb0503c1d4be331f440bf7d00ce3a70a'}
   - {seq: 2, filename: KR3er085_002-jc.yaml, hash: 'sha256:f18b7ca5360efbcc5e3987f06f394957e5081e7719117a652b16d946251e7fdf'}
   - {seq: 3, filename: KR3er085_003-jc.yaml, hash: 'sha256:d4cf7bb7199ac9eeb3c0bb28a79afb5407f433ab56aec31879188f87eea5c81b'}
@@ -26,9 +26,9 @@ assets:
   - {seq: 6, filename: KR3er085_006-jc.yaml, hash: 'sha256:477cf0b13a11f935c7aba98d5635fa89f6fb54353b80a5b5d145d336432bb4e7'}
   - {seq: 7, filename: KR3er085_007-jc.yaml, hash: 'sha256:9dab08154a64553d55678a8da0bb4b3d823e4d8d0d1e3c70ebaa4a5032123295'}
   - {seq: 8, filename: KR3er085_008-jc.yaml, hash: 'sha256:8b632a19b1343e633276feeab1c40b993f0977dfb03ce331fc8c11c7d3808f43'}
-  - {seq: 0, filename: KR3er085_000-jc.yaml, hash: 'sha256:a4c65c992ca207a99b05e3cdab0a7c7bc65f1461473fd7907ded284f5e39f877'}
+  - {seq: 0, filename: KR3er085_000-jc.yaml, hash: 'sha256:fd47383b65d34badae2e989b6693fce9cfa9772e6d1def0e8cef2067f01ef4dd'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3er085_000-jc.markers.yaml, hash: 'sha256:1d063c3c1601b8f58d99fe39868db953952f934190f19ce2f4d40d5c43ae880b'}
+  - {seq: 0, role: markers, filename: assets/KR3er085_000-jc.markers.yaml, hash: 'sha256:4ac854f58f660ddec0cd7cc7667dd3ebbb78dd0f135471fb424894e54725184e'}
   - {seq: 1, role: markers, filename: assets/KR3er085_001-jc.markers.yaml, hash: 'sha256:9bee40250e060e6cfa19869113df17ae8a06d73e2fd2f759cbbd38f521b7ab04'}
   - {seq: 2, role: markers, filename: assets/KR3er085_002-jc.markers.yaml, hash: 'sha256:a6d304a96438417ca19f4e8c13496158317bb9c8255de6e0a628fe908e19c603'}
   - {seq: 3, role: markers, filename: assets/KR3er085_003-jc.markers.yaml, hash: 'sha256:5a4b6a603360daadfdff73aed0cbf928c2827f5d4dd72901b5d57547b21c6484'}
@@ -42,7 +42,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3er085_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 444
   label: 序
@@ -52,7 +52,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3er085_jc_000-d3.h1s1
     span:
-    - front
+    - body
     - 444
     - 1078
   label: 自序
@@ -63,8 +63,8 @@ table_of_contents:
     marker_id: KR3er085_jc_000-d4.h1s1
     span:
     - body
-    - 0
-    - 874
+    - 1478
+    - 2352
   label: 雲林子傳
   type: section
   level: 1
@@ -2022,7 +2022,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3er085_jc_000-d14.h1s1
     span:
-    - front
+    - body
     - 0
     - 828
   label: 賀雲林龔君榮授魯府恩賜醫林狀元序
@@ -2032,7 +2032,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3er085_jc_000-d15.h1s1
     span:
-    - front
+    - body
     - 828
     - 1478
   label: 贈雲林龔君榮歷諸名公旌揚序
@@ -2043,9 +2043,9 @@ table_of_contents:
     marker_id: KR3er085_jc_000-d13.h1s1
     span:
     - body
-    - 0
-    - 1798
+    - 1478
+    - 3276
   label: 附海內名公贈龔氏橋梓詩
   type: section
   level: 1
-hash: sha256:ee877ab52c814634926d53e4a9dae24897bdb1eee88fc7339cc7295ea97e1d69
+hash: sha256:fb53cec6fae898630b2ef97b18f1a1b21b44710e02c1fca12b9c3ca2ea800896
